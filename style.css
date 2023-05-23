@@ -275,4 +275,22 @@ nav ul img{
 }
 }
 
-
+.d{
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.d button{
+    background: #7deb17;
+    border-radius: 6px;
+    width: 69px;
+    margin-left: 15px;
+}
+.d button:hover{
+    background: #369d07;
+}
+.d button a{
+    color: black;
+    text-decoration: none;
+}
